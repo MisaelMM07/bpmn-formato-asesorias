@@ -3636,7 +3636,7 @@ table ul {
   width: 15px;
   height: 10px;
   margin: 0 auto;
-  background: url("../libs/img/logoITP.png") no-repeat;
+  /*background: url("../libs/img/logoITP.png") no-repeat;*/
 }
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
   /* line 304, ../../sass/_export.scss */
